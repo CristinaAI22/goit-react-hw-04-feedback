@@ -1,0 +1,17 @@
+.feedbackOptions {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.button {
+  width: 150px;
+  padding: 10px 20px;
+  border: none;
+  font-weight: bold;
+  font-size: large;
+  background-color: darkgray;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+}

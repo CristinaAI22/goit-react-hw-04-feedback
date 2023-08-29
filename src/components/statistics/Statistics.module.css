@@ -1,0 +1,16 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  align-self: center;
+}
+
+.statistics p {
+  font-weight: bold;
+  text-align: left;
+  font-size: large;
+}
+.statistics span {
+  font-weight: lighter;
+  margin-left: 5px;
+}
